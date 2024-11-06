@@ -1,0 +1,101 @@
+{
+  "registrationBtn": {
+    "title": "Ro'yxatdan o'tish"
+  },
+  "headerBlock1": {
+    "title": "Dam olishni osonlashtiramiz va yaxshilaymiz",
+    "description": "Keng turdagi variantlarga tezkor kirish orqali dacha, dam olish maskanlari, sanatoriylar, xostellar, mehmonxonalar va turlarni qulay qidirish va bron qilish imkoniyati"
+  },
+  "headerBlock2": {
+    "title": "Ko'chmas mulkni sotish va ijaraga olishni tezkor va qulay qidiruvni ta'minlaymiz",
+    "description": "Sun’iy intellekt yordamida keng toifali va har tomonlama parametrlarni tahlil qilish orqali jarayonni shaffof qilib, har bir qarorni asoslangan qiladi."
+  },
+  "headerBlock3": {
+    "title": "Axborot portali",
+    "description": "Sayohatchilar, blogerlar va gidlar uchun turistik maydon",
+    "description2": "yangi madaniy va ko'ngilochar tadbirlar uchun chiptalarni bron qilish uchun yagona maydon",
+    "description3": "ovqat haqida hamma narsa: gastronomik navigator, onlayn menyu, stolni bron qilish va yetkazib berish",
+    "description4": "dam olish, turizm, ko'chmas mulk va transport sohasidagi dolzarb yangiliklar"
+  },
+  "headerBlock4": {
+    "title": "Biz bilan birga dolzarb trendlardan xabardor bo'ling!",
+    "description": "Qiziqarli kontent yaratamiz va foydali materiallar bilan bo'lishamiz"
+  },
+
+  "mainTitle": "Visitca ekotizimining afzalliklari",
+  "mainFirst": {
+    "title": "Xizmatlarning keng tanlovi",
+    "description": "Visitca sayyohlik xizmatlari, uy-joy va transportni bir platformada topish imkoniyatini beradi."
+  },
+  "mainSecond": {
+    "title": "Narxlarni taqqoslash",
+    "description": "Platforma turli xizmatlar va narxlarni taqqoslash imkonini beradi, bu esa bozorning eng yaxshi takliflarini topishga yordam beradi"
+  },
+  "mainThird": {
+    "title": "Qulay interfeys",
+    "description": "Intuitiv interfeys va oddiy navigatsiya foydalanuvchilarga platformadan qulay foydalanishni kafolatlaydi"
+  },
+  "playStore": {
+    "title": "Ilovani yuklab oling va",
+    "title2": "yangi imkoniyatlarni kashf qiling",
+    "description": "Yuklab olish uchun kamerani",
+    "description2": "QR-kodga yo'naltiring"
+  },
+  "mainBottom": {
+    "title": "Barchasi siz uchun",
+    "description" : "Visitca super ilovasida har bir harakat uchun keshbek, ",
+    "description2" : "chegirmalar va aktsiyalar taklif etamiz, bu platformani",
+    "description3" : " nafaqat qulay, balki foydali ham qiladi."
+  },
+
+  "cardsTitles": {
+    "titleFirst": "Axborot portali",
+    "titleSecond": "Turizm",
+    "description1": "Qayerda bo'lishingizdan qat'i nazar, dam olishni rejalashtiring va bron qiling",
+    "titleThird": "Ko'chmas mulk portali",
+    "description2": "Uyda o'tirmasdan, ko'chmas mulk bilan bog'liq har qanday muammoni hal qiling",
+    "titleFourth": "Transport",
+    "description3": "Har qanday vaqtda chiptalarni tezda onlayn bron qiling va sotib oling"
+  },
+  "cardsData": {
+    "title1": "Turistik maydon",
+    "title2": "Chipta bron qilish",
+    "title3": "Oziq-ovqat haqida hamma narsa",
+    "title4": "Dachalar, dam olish maskanlari va sanatoriylar",
+    "title5": "Xostellar va mehmonxonalar",
+    "title6": "Turlar",
+    "title7": "Sotish, sotib olish va ijaraga olish",
+    "title8": "Ipoteka xizmatlari",
+    "title9": "Har kuni uchun xizmatlar",
+    "title10": "Shaharlararo taksi va avtobuslar",
+    "title11": "Temir yo'l poezdlari",
+    "title12": "Havo reyslari",
+    "description1": "Sayohatchilar, blogerlar va gidlar hamjamiyati uchun maydon, bu yerda sayohatlarni birgalikda uyushtirish yoki o'z tajribangiz va taassurotlaringizni baham ko'rish va daromad olish mumkin.",
+    "description2": "Yangi madaniy va ko'ngilochar tadbirlar uchun, jumladan muzeylar, kontsertlar, teatrlar, kinolar, festivallar va ko'rgazmalar uchun chiptalarni bron qilish yo'nalishini rivojlantirmoqdamiz va kengaytirmoqdamiz.",
+    "description3": "Bizning gastronomik navigatorimiz bilan oshxonalar olamini kashf eting: menyularni o'rganing, stol buyurtma qiling va yetkazib berishni onlayn tarzda qulay qilib amalga oshiring.",
+    "description4": "",
+    "description5": "",
+    "description6": "",
+    "description7": "",
+    "description8": "",
+    "description9": "",
+    "description10": "",
+    "description11": "",
+    "description12": ""
+  },
+  "footer": {
+    "titleLi1": "Sharh",
+    "titleLi2": "Xususiyatlar",
+    "titleLi3": "Narxlar",
+    "titleLi4": "Karera",
+    "titleLi5": "Yordam",
+    "titleLi6": "Maxfiylik",
+    "titleH3": "Xabardor bo'ling",
+    "copyryting": "Anonim interfeys. Barcha huquqlar himoyalangan.",
+    "title7": "Shartlar",
+    "title8": "Maxfiylik",
+    "title9": "Cookie fayllari",
+    "subscribe": "Obuna bo'lish",
+    "placeholder": "Elektron pochta manzilini kiriting"
+  }
+}

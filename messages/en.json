@@ -1,0 +1,101 @@
+{
+  "registrationBtn": {
+    "title": "Registration"
+  },
+  "headerBlock1": {
+    "title": "Making relaxation easier and better",
+    "description": "Convenient search and booking of dachas, recreational areas, sanatoriums, hostels, hotels, and tours with quick access to a wide range of options."
+  },
+  "headerBlock2": {
+    "title": "Providing fast and practical property search for buying and renting",
+    "description": "Ensuring a transparent process with a wide selection by category and comprehensive analysis of all parameters using AI, making each decision well-informed."
+  },
+  "headerBlock3": {
+    "title": "Information Portal",
+    "description": "A tourism space for travelers, bloggers, and guides.",
+    "description2": "A unified space for booking tickets to the latest cultural and entertainment events.",
+    "description3": "All about food: gastronomic navigator, online menu, table booking, and delivery.",
+    "description4": "Up-to-date news in the field of leisure, tourism, real estate, and transport."
+  },
+  "headerBlock4": {
+    "title": "Stay updated with the latest trends with us!",
+    "description": "We create engaging content and share useful materials."
+  },
+
+  "mainTitle": "Advantages of the Visitca Ecosystem",
+  "mainFirst": {
+    "title": "Wide Range of Services",
+    "description": "Visitca provides the opportunity to find tourism services, accommodation, and transportation on one platform."
+  },
+  "mainSecond": {
+    "title": "Price Comparison",
+    "description": "The platform offers the ability to compare various services and prices, allowing users to find the best offers on the market."
+  },
+  "mainThird": {
+    "title": "User-Friendly Interface",
+    "description": "An intuitive interface and simple navigation ensure a comfortable experience for users on the platform."
+  },
+  "playStore": {
+    "title": "Download the app and",
+    "title2": "unlock new opportunities",
+    "description": "Point your camera at the",
+    "description2": "QR code to download."
+  },
+  "mainBottom": {
+    "title": "All for You",
+    "description" : "We offer cashback, discounts, and promotions ",
+    "description2" : "for every action in the Visitca super app, making the platform",
+    "description3" : "  not only convenient but also beneficial."
+  },
+
+  "cardsTitles": {
+    "titleFirst": "Information Portal",
+    "titleSecond": "Tourism",
+    "description1": "Plan and book your vacation online, wherever you are.",
+    "titleThird": "Real Estate Portal",
+    "description2": "Resolve any real estate issues online without leaving home.",
+    "titleFourth": "Transport",
+    "description3": "Instantly book and buy tickets online anytime."
+  },
+  "cardsData": {
+    "title1": "Tourism Space",
+    "title2": "Ticket Booking",
+    "title3": "All About Food",
+    "title4": "Dachas, Recreational Areas, and Sanatoriums",
+    "title5": "Hostels and Hotels",
+    "title6": "Tours",
+    "title7": "Buying, Selling, and Renting",
+    "title8": "Mortgage Services",
+    "title9": "Daily Services",
+    "title10": "Intercity Taxis and Buses",
+    "title11": "Trains",
+    "title12": "Flights",
+    "description1": "A platform for the community of travelers, bloggers, and guides where you can organize trips together or simply share your experiences and impressions to earn.",
+    "description2": "We develop and expand the area of booking tickets for cultural and entertainment events, including museums, concerts, theaters, cinemas, festivals, and exhibitions, creating a unified space for cultural leisure and recreation.",
+    "description3": "Discover the culinary world with our gastronomic navigator: explore menus, reserve tables, and order delivery conveniently online.",
+    "description4": "",
+    "description5": "",
+    "description6": "",
+    "description7": "",
+    "description8": "",
+    "description9": "",
+    "description10": "",
+    "description11": "",
+    "description12": ""
+  },
+  "footer": {
+    "titleLi1": "Overview",
+    "titleLi2": "Features",
+    "titleLi3": "Pricing",
+    "titleLi4": "Careers",
+    "titleLi5": "Help",
+    "titleLi6": "Privacy",
+    "titleH3": "Stay Informed",
+    "copyryting": "Anonymous Interface. All rights reserved.",
+    "title7": "Terms",
+    "title8": "Privacy",
+    "title9": "Cookies",
+    "subscribe": "Subscribe",
+    "placeholder": "Enter email address"
+  }
+}
