@@ -1,7 +1,7 @@
-import Cards from "@/components/cards";
-import Footer from "@/components/footer";
-import Main from "@/components/main";
-import PlayStore from "@/components/playStore";
+import Cards from "../../components/cards";
+import Footer from "../../components/footer";
+import Main from "../../components/main";
+import PlayStore from "../../components/playStore";
 
 export default function Home() {
   return (

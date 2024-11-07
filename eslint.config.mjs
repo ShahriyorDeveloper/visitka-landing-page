@@ -16,7 +16,9 @@ export default [
   jsxA11yPlugin.flatConfigs.recommended,
   reactPlugin.configs.flat.recommended,
   reactPlugin.configs.flat["jsx-runtime"],
-  { settings: { react: { version: "detect" } } },
+  { 
+    settings: { react: { version: "detect" } } 
+  },
   {
     plugins: { "react-hooks": reactHooksPlugin },
     rules: reactHooksPlugin.configs.recommended.rules,

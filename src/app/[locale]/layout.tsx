@@ -3,7 +3,7 @@ import "./globals.css";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { Manrope } from "@next/font/google";
-import Header from "@/components/header";
+import Header from "../../components/header";
 
 const manrope = Manrope({
   subsets: ["latin"],
