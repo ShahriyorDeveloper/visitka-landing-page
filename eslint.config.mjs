@@ -12,7 +12,7 @@ export default [
   ...tseslint.configs.recommended,
   importPlugin.flatConfigs.recommended,
   importPlugin.flatConfigs.typescript,
-  { rules: { "import/order": "error" } },
+  { rules: { "import/order": "error", "import/no-unresolved": "off" } },
   jsxA11yPlugin.flatConfigs.recommended,
   reactPlugin.configs.flat.recommended,
   reactPlugin.configs.flat["jsx-runtime"],
